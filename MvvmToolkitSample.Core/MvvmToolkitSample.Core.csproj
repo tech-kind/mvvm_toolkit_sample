@@ -12,8 +12,4 @@
     <PackageReference Include="Refit" Version="6.3.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
-
 </Project>
